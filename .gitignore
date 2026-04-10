@@ -1,11 +1,5 @@
-ENG/Milene Mandeville CV (ENG).aux
-ENG/Milene Mandeville CV (ENG).fdb_latexmk
-ENG/Milene Mandeville CV (ENG).fls 
-ENG/Milene Mandeville CV (ENG).log
-ENG/Milene Mandeville CV (ENG).synctex.gz 
-
-FR/Milene Mandeville CV (FR).aux
-FR/Milene Mandeville CV (FR).fdb_latexmk
-FR/Milene Mandeville CV (FR).fls 
-FR/Milene Mandeville CV (FR).log
-FR/Milene Mandeville CV (FR).synctex.gz
+*.aux
+*.fdp_latexmk
+*.fls
+*.log
+*.synctex.gz 
