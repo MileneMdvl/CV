@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.6)  22 DEC 2025 11:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.6)  10 APR 2026 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -931,7 +931,7 @@ Overfull \hbox (18.7458pt too wide) in paragraph at lines 50--52
 
 {C:/Users/milen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
-runsystem(latexminted cleantemp  --timestamp 20251222114516 6193C77F5E3A5836BCF4B69A1E179447)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20260410143932 6193C77F5E3A5836BCF4B69A1E179447)...disabled (restricted).
 
 (Milene Mandeville CV (FR).aux)
  ***********

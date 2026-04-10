@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.6)  13 MAR 2026 13:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.6)  10 APR 2026 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -932,7 +932,7 @@ Underfull \hbox (badness 3199) in paragraph at lines 50--51
 
 {C:/Users/milen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/milen/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
-runsystem(latexminted cleantemp  --timestamp 20260313132259 13242AA846D3DFD265F67083A3D84765)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20260410143921 13242AA846D3DFD265F67083A3D84765)...disabled (restricted).
 
 (Milene Mandeville CV (ENG).aux)
  ***********
