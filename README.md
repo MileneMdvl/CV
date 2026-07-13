@@ -2,13 +2,13 @@ This repository is used to store both my English and French CV's, as well as my 
 
 <hr>
 
-# CV
+# CV's
 <ul>
   <li><a href="https://milenemdvl.github.io/CV/Milene%20Mandeville%20CV%20(ENG).pdf">English CV</a></li>
   <li><a href="https://milenemdvl.github.io/CV/Milene%20Mandeville%20CV%20(FR).pdf">French CV</a></li>
 </ul>
 
-# Thesis
+# Theses
 <ul>
   <li><a href="https://milenemdvl.github.io/CV/BachelorThesis.pdf">Bachelor's Thesis</a>: Average Surface Roughness for 2-Dimensional Atmospheric Flow, University of Groningen, 2023</li>
   <li><a href="https://milenemdvl.github.io/CV/InternshipThesis.pdf">Master's Internship Thesis</a>: Towards Efficient Galerkin Projection in Lagrangian ROMs for Sloshing, Von Karman Institute for fluid dynamics, 2026</li>
