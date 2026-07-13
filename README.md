@@ -1,14 +1,15 @@
-<head>
-  &lt;link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css' integrity='sha512-Avb2QiuDEEvWJZjz+xxNzLmd9xkGvcZLALQJEavMEpjLXTHdW1F5DpWy568ZczyzlrWDmmQvrjmAHPULPW6ZC6Q==' crossorigin='anonymous' referrerpolicy='no-referrer' /&gt;
-</head>
-
 This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
 
 <hr>
 
-<a href="https://www.linkedin.com/in/milènemandeville" target="_blank" rel="noopener noreferrer">
-  <i class='fab fa-linkedin' aria-hidden='true'></i>
-</a>
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 # CV's
 <ul>
