@@ -1,4 +1,4 @@
-<title>Milène Mandeville</title>
+<title> Milène Mandeville </title>
 
 This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. Can also be found at https://milenemdvl.github.io/CV. 
 
