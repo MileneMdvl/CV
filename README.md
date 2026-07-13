@@ -1,4 +1,4 @@
-This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. 
+This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. Can also be found at https://milenemdvl.github.io/CV. 
 
 <hr>
 
@@ -11,6 +11,6 @@ This repository is used to store both my English and French CV's, as well as my 
 # Theses
 <ul>
   <li><a href="https://milenemdvl.github.io/CV/MasterThesis.pdf">Master's Thesis</a>: Unstructured Finite Volume Discretisation Scheme for Turbulent Navier-Stokes, University of Groningen, 2026</li>
-  <li><a href="https://milenemdvl.github.io/CV/InternshipThesis.pdf">Master's Internship Thesis</a>: Towards Efficient Galerkin Projection in Lagrangian ROMs for Sloshing, Von Karman Institute for fluid dynamics, 2026</li>
+  <li><a href="https://milenemdvl.github.io/CV/InternshipThesis.pdf">Master's Internship Thesis</a>: Towards Efficient Galerkin Projection in Lagrangian ROMs for Sloshing, Von Karman Institute for Fluid Dynamics, 2026</li>
   <li><a href="https://milenemdvl.github.io/CV/BachelorThesis.pdf">Bachelor's Thesis</a>: Average Surface Roughness for 2-Dimensional Atmospheric Flow, University of Groningen, 2023</li>
 </ul>
