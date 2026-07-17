@@ -1,9 +1,11 @@
-This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
+<div class="image-container">
+    <img src="https://media.licdn.com/dms/image/v2/D4E03AQHL7j2XDL64tQ/profile-displayphoto-crop_800_800/B4EZr_wdAJIIAI-/0/1765227486576?e=1785974400&v=beta&t=eLhp6uujhw12SoBKsWDdyy2uPWX_knGEm7pQ4qFxPjE">
+  </div>
 
-<hr>
-
-<b><a target="_blank" href="https://www.linkedin.com/in/mil%C3%A8nemandeville/">Linkedin</a></b>
-
+  <p>
+  This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
+  </p>
+  
 # CV's
 <ul>
   <li><a target="_blank" href="https://milenemdvl.github.io/CV/Milene%20Mandeville%20CV%20(ENG).pdf">English CV</a></li>
