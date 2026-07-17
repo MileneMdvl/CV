@@ -1,8 +1,11 @@
+<div style="display: flex;
+        align-items: center;
+        justify-content: space-between;">
+   <img src="https://milenemdvl.github.io/CV/images/profile-picture.jpg" alt="Me sitting in a lecture hall" style="width:10%; height:auto"/>
   <p>
-    <img src="https://milenemdvl.github.io/CV/images/profile-picture.jpg" alt="Me sitting in a lecture hall" style="float: left;
-      margin-right: 20px; width:10%; height:auto"/>
-  This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses, all in .pdf format. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
+    This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses, all in .pdf format. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>.
   </p>
+  </div>
   
 # CV's
 <ul>
