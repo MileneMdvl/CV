@@ -1,5 +1,5 @@
   <img src="https://milenemdvl.github.io/CV/images/profile-picture.jpg" alt="Me sitting in a lecture hall" style="float: left;
-      margin-right: 20px;;">
+      margin-right: 20px;width=20px;">
 
   <p>
   This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses, all in .pdf format. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
