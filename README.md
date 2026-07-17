@@ -2,7 +2,7 @@
       margin-right: 20px;;">
 
   <p>
-  This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
+  This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses, all in .pdf format. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
   </p>
   
 # CV's
