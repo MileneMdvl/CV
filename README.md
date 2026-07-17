@@ -1,5 +1,9 @@
 This repository is used to store both my English and French CV's, as well as my Bachelor's and Master's theses. It can also be found at <a href="https://milenemdvl.github.io/CV">https://milenemdvl.github.io/CV</a>. 
 
+<hr>
+
+<b><a target="_blank" href="https://www.linkedin.com/in/mil%C3%A8nemandeville/">Linkedin</a></b>
+
 # CV's
 <ul>
   <li><a target="_blank" href="https://milenemdvl.github.io/CV/Milene%20Mandeville%20CV%20(ENG).pdf">English CV</a></li>
