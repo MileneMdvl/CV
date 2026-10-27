@@ -1,0 +1,162 @@
+\documentclass[10pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+
+\usepackage[top=25mm,bottom=25mm,left=20mm,right=20mm
+]{geometry}
+
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries}{}{0em}{}[:]
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    urlcolor  = {blue!50!black}, 
+}
+
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+    {\textbf{\huge Milène Mandeville}}\\\Large{Étudiante en mathématiques appliquées}\vspace{3mm}
+\end{center}
+\begin{center}
+    \faIcon{phone} \href{https://wa.link/fxuzgz}{+33 6 68 29 81 13} \hspace{1cm}
+    \faIcon{envelope} \href{mailto:milenemandeville@yahoo.com}{milenemandeville@yahoo.com} \hspace{1cm}
+    \faIcon{linkedin} \href{https://www.linkedin.com/in/milènemandeville}{milènemandeville}\vspace{3mm}
+\end{center}
+\begin{minipage}[t]{0.45\linewidth}
+\section*{Langues parlées}
+\begin{minipage}[t]{0.5\linewidth}
+\begin{itemize}
+    \item Français (native)
+    \item Anglais (C1)
+\end{itemize}
+\end{minipage}\hfill 
+\begin{minipage}[t]{0.5\linewidth}
+    \begin{itemize}
+    \item Néerlandais (B1)
+    \item Allemand (B1)
+\end{itemize}
+\end{minipage}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.5\linewidth}
+\section*{Compétences \qquad\qquad \normalfont{\normalsize{\faGithub\, \href{https://github.com/MileneMdvl}{MileneMdvl}}}}
+\begin{minipage}[t]{0.4\linewidth}
+\begin{itemize}
+    \item Python (avancé)
+    \item LaTex (avancé)
+    \item Julia (avancé)
+\end{itemize}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.6\linewidth}
+\begin{itemize}
+    \item Matlab (intermédiaire)
+    \item Fortran (intermédiaire)
+\end{itemize}
+\end{minipage}
+\end{minipage}\hfill
+% \begin{minipage}[t]{0.3\linewidth}
+% \section*{Diplômes}
+% \begin{itemize}
+%     \item BSc Mathématiques Appliquées (2024)
+%     \item Baccalauréat scientifique -- mention très bien (2020)
+% \end{itemize}
+% \end{minipage}
+
+
+\section*{Éducation}
+\begin{itemize}
+    \item \textbf{MSc Mathématiques Appliquées}, Université de Groningen
+    (2024--2026) 
+
+    \textbf{Cours pertinents}: Computational Fluid Dynamics, Finite Element
+    Methods, Coupled Problems, Inverse Problems in Imaging, Numerical Simulation
+    of Turbulence, Randomised Numerical Linear Algebra
+    \item \textbf{BSc Mathématiques Appliquées}, Université de Groningen
+    (2020--2024) 
+ 
+    \item \textbf{Baccalauréat Général Scientifique} (Mention très bien), Lycée
+    Agora, Puteaux (2017--2020)
+\end{itemize}
+
+\section*{Recherche}
+\begin{itemize}
+    \item \textbf{Thèse de master}: Université de Groningen (2026) \begin{itemize}
+        \item \textbf{Titre}: \href{https://milenemdvl.github.io/CV/theses/MasterThesis.pdf}{Unstructured Finite Volume Discretisation Scheme for Turbulent Navier-Stokes}
+        \item \textbf{Superviseurs} prof. dr. ir. R.W.C.P Verstappen and dr. ir. R. Luppes 
+        \item \textbf{Description}: Dans ce papier, je présente un schéma de discrétisation en volumes finis pour des maillages non structurées en deux et trois dimensions. Ces maillages sont obtenus par une triangulation de Delaunay, choisie de sorte que les sommets ne se trouvent qu’aux limites des cercles périphériques des triangles. Je passe d’abord en revue les bases des modèles de turbulence, tels que la simulation des grandes structures et le filtrage. Étant donné que la divergence et le gradient dont adjoints les uns aux autres, je présente les dérivations pour les opérateurs discrets, et je donnez un exemple pour une grille simple à deux dimensions. Je résous la pression via un problème de Poisson où le les systèmes linéaires intermédiaires sont résolus de manière itérative. Je vérifie le code en utilisant la méthode de fabrication solutions, dans lesquelles je présente des solutions de vitesse et de densité sous forme de combinaisons linéaires de sinus et de cosinus et dans le but de récupérer ces solutions.
+    \end{itemize}
+    \item \textbf{Thèse de stage (master)}: Von Karman Insitute for Fluid Dynamics (2026) \begin{itemize}
+        \item \textbf{Titre}: \href{https://milenemdvl.github.io/CV/theses/InternshipThesis.pdf}{Towards Efficient Galerkin Projection in
+        Lagrangian ROMs for Sloshing}
+        \item \textbf{Superviseurs}: prof. M. A. Mendez, ir. S. Ahizi,  dr. J. Koellermeier, and dr. ir. R.
+        Luppes,
+        \item \textbf{Description}: Dans ce papier j'ai dérivé un model d'ordre réduit pour des équations d'hydrodynamique de particules lissées. Pour cela, j'ai d'abord réécrit les équations standard (qui consistent à prendre une somme sur les particules voisines) en opérations matricielles denses. Ensuite, en utilisant une décomposition orthogonale aux valeurs propres et une projection de Galerkin, j'ai obtenu un modèle linéaire invariant dans le temps. Cependant, les transformations à noyaux inhérentes à la dynamique des particles introduit un term non linéaire dépendant de l'état. J'ai donc évalué trois méthodes pour résoudre ce terme : linéarisation, les caractéristiques de Fourier aléatoires et une interpolation basée sur les valeurs singulières. 
+    \end{itemize}
+    \item \textbf{Mémoire de licence}: Université de Groningen (2023) \begin{itemize}
+        \item \textbf{Titre}: \href{https://milenemdvl.github.io/CV/theses/BachelorThesis.pdf}{Average Surface Roughness for 2-Dimensional Atmospheric Flow}
+        \item \textbf{Superviseurs}: dr. ir. R. Luppes and dr. A. E. Sterk 
+        \item \textbf{Description}: Dans ce papier je présente une étude de quatre différentes manières de
+        calculer la longueure rugueuse moyenne (suivant André et Blondin (1986), Taylor (1989), de Vries et. al. (2003), et en prennant la moyenne du profil logarithmique).
+    \end{itemize}
+\end{itemize}
+
+\section*{Expériences professionelles}
+\begin{itemize}
+\item \textbf{Acadomia : enseignante cours particuliers} (2024--2026)
+\begin{itemize}
+    \item Cours en ligne en mathématiques pour des élèves de collège et de lycée
+\end{itemize}
+\item \textbf{Université de Groningen : assistante pédagogue} (2023--2026)
+\begin{itemize}
+    \item Mathematical Tools for BME (2025)
+    \item Project Mathematical Modelling (2025)
+    \item Computational Methods of Science (2024--2025)
+    \item Mathematical Modelling (2023--2025) 
+    \item Advanced Systems Theory (2023)
+\end{itemize}
+\item \textbf{Médiathèques de Puteaux : vacataire} (2023) 
+\begin{itemize}
+    \item Acceuil des visiteurs 
+    \item Classement et organisation des livres avec le logiciel Orphée
+\end{itemize}
+% \item \textbf{Penoyre \& Prasad Architectes : stagiaire} (2017)
+% \begin{itemize}
+%     \item Stage d'observation
+% \end{itemize}
+\end{itemize}
+
+\section*{Autre expériences}
+\begin{itemize}
+    \item \textbf{Atelier LaTex} (2025--2026) \begin{itemize}
+        \item Atelier à destination des élèves de première année de licence afin
+        d'apprendre à utiliser le language LaTex 
+        \item Focus sur les équations, théorèmes, figures, tableaux, management
+        BibTex et Beamer 
+        \item Introduction à TikZ 
+    \end{itemize}
+    \item \textbf{Secrétaire d'un comité de l'association étudiante FMF} (2023--2026)\begin{itemize}
+    \item Organisation de la compétition d'intégration anuelle et de divers
+    évenements autour des mathématiques
+    \item Écriture des minutes, résumant les réunions 
+    \item Contact avec les professeurs pour l'organsiation de séminaires 
+\end{itemize}
+\end{itemize}
+
+\section*{Références}
+\begin{itemize}
+    \item Prof. dr. ir. Roel Verstappen, Université de Groningen, \href{mailto:r.w.c.p.verstappen@rug.nl}{r.w.c.p.verstappen@rug.nl}
+    \item Dr. ir. Roel Luppes, Université de Groningen, \href{mailto:r.luppes@rug.nl}{r.luppes@rug.nl}
+    \item Prof. Miguel Mendez, von Karman Institut for Fluid Dynamics, 
+    \href{mailto:miguel.alfonso.mendez@vki.ac.be}{miguel.alfonso.mendez@vki.ac.be}
+\end{itemize}
+
+
+\qed
+
+\end{document}
