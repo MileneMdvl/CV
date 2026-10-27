@@ -23,7 +23,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: aanda.tex
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: PDF
           path: resumes/Milene Mandeville CV (ENG).pdf
