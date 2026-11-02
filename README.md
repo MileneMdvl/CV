@@ -13,8 +13,8 @@ This repository is used to store both my English and French CV's, as well as my 
   
 # CV's
 <ul>
-  <li><a target="_blank" href="https://milenemdvl.github.io/CV/resumes/Mandeville-CV-ENG.pdf">English CV</a></li>
-  <li><a target="_blank" href="https://milenemdvl.github.io/CV/resumes/Mandeville-CV-FR.pdf">French CV</a></li>
+  <li><a target="_blank" href="https://milenemdvl.github.io/CV/resumes/Milene%20Mandeville%20CV%20(ENG).pdf">English CV</a></li>
+  <li><a target="_blank" href="https://milenemdvl.github.io/CV/resumes/Milene%20Mandeville%20CV%20(FR).pdf">French CV</a></li>
 </ul>
 
 # Theses
